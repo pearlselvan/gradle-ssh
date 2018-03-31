@@ -25,7 +25,7 @@ dependencies {
 
 remotes {
   webServer {
-    host = 'adc01kfe.us.oracle.com'
+    host = 'hostname'
     user = 'mutshanm'
     // identity = file('/Users/mutshanm/.ssh/id_rsa.pub')
     password='Revanth@2681'
