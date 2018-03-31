@@ -28,7 +28,7 @@ remotes {
     host = 'hostname'
     user = 'mutshanm'
     // identity = file('/Users/mutshanm/.ssh/id_rsa.pub')
-    password='Revanth@2681'
+    password='nopas'
   }
 }
 
